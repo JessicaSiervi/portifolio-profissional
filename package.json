@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-profissional",
+  "version": "1.0.0",
+  "description": "Portfólio profissional de Jessica Siervi",
+  "scripts": {
+    "lint": "htmlhint index.html",
+    "validate": "node scripts/validar.js"
+  },
+  "author": "Jessica Siervi",
+  "license": "ISC",
+  "devDependencies": {
+    "htmlhint": "^1.9.2"
+  }
+}
